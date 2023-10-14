@@ -3,6 +3,5 @@
 smart device Botnet and brute forcer tool
 Ddos
 stealer
-keylogger 
 contact on telegram
 https://t.me/Mr_Wolf_Man1
